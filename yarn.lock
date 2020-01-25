@@ -963,7 +963,7 @@
     postcss-selector-parser "~6.0.2"
     postcss-value-parser "~4.0.2"
 
-"@lwc/synthetic-shadow@1.1.1":
+"@lwc/synthetic-shadow@1.1.1", "@lwc/synthetic-shadow@^1.1.1":
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/@lwc/synthetic-shadow/-/synthetic-shadow-1.1.1.tgz#633c91dc741e3d7c64b16b810e00997c8a14775d"
   integrity sha512-buJOn6/EFENeXqsvACbOSKOK5swKvr5TCOy0fQFUt6efKzJFKwhJUoh7wltkbmAyhYW7lQLn4d1uQaX693tPVA==
@@ -1124,7 +1124,7 @@
   resolved "https://registry.yarnpkg.com/@oclif/screen/-/screen-1.0.4.tgz#b740f68609dfae8aa71c3a6cab15d816407ba493"
   integrity sha512-60CHpq+eqnTxLZQ4PGHYNwUX572hgpMHGPtTWMjdTMsAvlm69lZV/4ly6O3sAYkomo4NggGcomrDpBe34rxUqw==
 
-"@salesforce-ux/design-system@^2.9.3":
+"@salesforce-ux/design-system@^2.11.2", "@salesforce-ux/design-system@^2.9.3":
   version "2.11.2"
   resolved "https://registry.yarnpkg.com/@salesforce-ux/design-system/-/design-system-2.11.2.tgz#699cb8812e4083a930d78d550ac441a2dd5093c9"
   integrity sha512-e+ybuLVpxNJ6+BZe7m7Kd+lFzC9fUWfPaVz4oRi594z2AspQAhZLI6Uxmwpuyi9z6SmaLnzECvGe2HZ23iVK1w==
